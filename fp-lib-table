@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name RickAndMorty)(type KiCad)(uri C:/Users/choco/Documents/BSides/2019Extra/Images/RickAndMorty)(options "")(descr ""))
+  (lib (name BsidesLogos)(type KiCad)(uri C:/Users/choco/Documents/BSides/BsidesLogos)(options "")(descr ""))
+  (lib (name Desktop)(type KiCad)(uri C:/Users/choco/Desktop)(options "")(descr ""))
+)
