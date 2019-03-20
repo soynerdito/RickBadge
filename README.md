@@ -6,3 +6,6 @@ The circuit includes a batter holder for a CR2032 battery.
 Circuit also has 8 Leds.
 
 As the moment of pushing repository circuit has never been tested.
+![Board 3D](rick3dblue.png)
+
+![Back Side](rick3dblue_back.png)
