@@ -8,6 +8,11 @@ As part of our activity, every (well almos everyone) participant takes home a sp
 All design files are open source and free for everyone to download modify and make their ouwn from our repo (https://github.com/soynerdito/RickBadge). The making of this badge was done using free open source tools like, KiCad, LibreCad and Inkscape. And of course the help of one or two seach engines and Youtube as always.
 Components were source from ebay and making of the actual PCB board was done in China. All soldering was a labor of love with a soldering iron and patience.
 
+First design sent to fabrication looked like this. This are KiCad renderings of the board before being manufactured.
+![Board 3D](../rick3dblue.png)
+
+![Back Side](../rick3dblue_back.png)
+
 #Components
 
 #Programming
