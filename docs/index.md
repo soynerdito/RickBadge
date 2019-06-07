@@ -15,6 +15,21 @@ First design sent to fabrication looked like this. This are KiCad renderings of 
 ![Back Side](img/rick3dblue_back.png)
 
 #Components
+All Components are [smd components](https://en.wikipedia.org/wiki/Surface-mount_technology) specially 0603 size as they are easier to solder by hand.
+Bill of material is:
+
+Qt | Part Number | Description | Footprint
+-- | ----------- | ----------- | ---------
+7 | Led | Regular Led | 0603
+8 | 680 Ohm | Resistor | 0603
+1 | 12K Ohm | Resistor | 0603
+1 | 10uF | Capacitor | 0603
+1 | | Slide switch |
+1 | CR2032 | 3V coin cell battery |
+1 |  | Baterry Holder for CR2032 |
+1 | Attiny13A | Atty micro controller | SOP8
+1 | 74HC164 | 8 bit Shift register | SOIC14
+
 
 #Programming
 
