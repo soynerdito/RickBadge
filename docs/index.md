@@ -9,9 +9,9 @@ All design files are open source and free for everyone to download modify and ma
 Components were source from ebay and making of the actual PCB board was done in China. All soldering was a labor of love with a soldering iron and patience.
 
 First design sent to fabrication looked like this. This are KiCad renderings of the board before being manufactured.
-![Board 3D](../rick3dblue.png)
+![Board 3D](img/rick3dblue.png)
 
-![Back Side](../rick3dblue_back.png)
+![Back Side](img/rick3dblue_back.png)
 
 #Components
 
