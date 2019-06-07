@@ -1,0 +1,21 @@
+site_name: Git Comunity Talk
+site_url: https://rickbadge.readthedocs.io/
+
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+nav:
+- Home: 'index.md'
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - def_list
+
+plugins:
+  - search
