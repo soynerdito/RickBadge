@@ -3,6 +3,10 @@
 Information about HackerLab V3 Hardware badge. On June 22, 2019 we hosted our anual HackerLab [@Engine4](https://twitter.com/engine4cws/) in Puerto Rico. Our HackerLab main goal is to provide a space for hackers to play and learn about different aspect of security specially IOT stuff.
 As part of our activity, every (well almos everyone) participant takes home a special hardware badge for them to play, hack or do what ever they want with them. And this is the place to find the information about such fantastic piece of hardware. Enjoy and feel free to comment on our github [project repo](https://github.com/soynerdito/RickBadge).
 
+# HackerLab V3 Keynote
+During the HackerLab V3 we had a keynote about #badgelife and our RickBadge. Pdf for slides can be found on [HackerlabV3_Keynote_2019.pdf](https://github.com/soynerdito/RickBadge/raw/master/References/HackerlabV3_Keynote_2019.pdf).
+
+
 # Design files
 
 All design files are open source and free for everyone to download modify and make their ouwn from our [Github repo](https://github.com/soynerdito/RickBadge "Badge Repo"). The making of this badge was done using free open source tools like, KiCad, LibreCad and Inkscape. And of course the help of one or two seach engines and Youtube as always.
